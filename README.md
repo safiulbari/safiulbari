@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safiulbari&label=Profile%20views&color=0e75b6&style=flat" alt="safiulbari" /> </p>
 
-- 🌱 I’m currently learning **Actix**
+- 🌱 I’m currently learning **New Technologies**
 
 - 👨‍💻 Know more about my professional life [https://linkedin.com/in/safiulbari](https://linkedin.com/in/safiulbari)
 
