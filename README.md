@@ -7,7 +7,7 @@
 
 - 👨‍💻 Know more about my professional life [https://linkedin.com/in/safiulbari](https://linkedin.com/in/safiulbari)
 
-- 💬 Ask me about **React, Express**
+- 💬 Ask me about **React, Express, Nest**
 
 - 📫 How to reach me **asmsafiulbari@gmail.com**
 
