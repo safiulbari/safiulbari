@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **asmsafiulbari@gmail.com**
 
-- ⚡ Fun fact **I work as a UX Professional**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
