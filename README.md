@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <video src="https://cdn.dribbble.com/userupload/14223811/file/original-ffd4bfb07824c3afa15e5c9b3e951db8.mp4" controls width="600"></video>
-</p>
-
-<p align="center">
   <img src="https://i.pinimg.com/originals/6a/c7/80/6ac780f0649e8e2497148d50edf432c3.gif" width="500" alt="Welcome animation" />
 </p>
 
