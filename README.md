@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=safiulbari&label=Profile%20views&color=0e75b6&style=flat" alt="safiulbari" />
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6a/c7/80/6ac780f0649e8e2497148d50edf432c3.gif" width="500" alt="Welcome animation" />
-</p>
+
+<img src="https://i.pinimg.com/originals/6a/c7/80/6ac780f0649e8e2497148d50edf432c3.gif" width="500" alt="Welcome animation" />
+
 
 ---
 
